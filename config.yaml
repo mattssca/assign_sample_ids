@@ -1,0 +1,2 @@
+input_file: "path/to/your/input_data.txt"
+output_file: "output/processed_data.txt"
