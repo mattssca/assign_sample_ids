@@ -22,14 +22,14 @@ assign_sample_ids/
 2. **Create a Conda Environment**: Create a new Conda environment with the required packages.
 
    ```sh
-   conda create -n snakemake_env python=3.10 snakemake pandas numpy pyyaml
-   conda activate snakemake_env
+   conda create -n assign_sample_ids_env python=3.10 snakemake pandas numpy pyyaml
+   conda activate assign_sample_ids_env
    ```
 
 3. **Clone the Repository**: Clone this repository to your local machine.
 
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/mattssca/assign_sample_ids.git
    cd assign_sample_ids
    ```
 
