@@ -67,8 +67,8 @@ assign_sample_ids/
 
 ```sh
 # Create and activate the Conda environment
-conda create -n snakemake_env python=3.10 snakemake pandas numpy pyyaml
-conda activate snakemake_env
+conda create -n assign_sample_ids_env python=3.10 snakemake pandas numpy pyyaml
+conda activate assign_sample_ids_env
 
 # Clone the repository and navigate to the directory
 git clone <repository_url>
